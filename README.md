@@ -9,9 +9,9 @@ https://cowrie.readthedocs.io/en/latest/INSTALL.html
 ## Cowrie Honeypot Configuration
 My cowrie honeypot runs openly on the internet via a virtual machine running in the cloud. This approach will eliminate the need to expose my personal network to attacker and safely monitor and study the tactics of threat actors. The VM runs with the following specifications:
 
-OS - Ubuntu x64
-vCPU/s: 1 vCPU
-Storage: 25 GB NVMe
+- OS - Ubuntu x64
+- vCPU/s: 1 vCPU
+- Storage: 25 GB NVMe
 
 Cowrie running on my cloud VM (bin/cowrie status)
 ![image](https://github.com/user-attachments/assets/f3127104-a3c6-48f1-93cc-7318a6320cfa)
