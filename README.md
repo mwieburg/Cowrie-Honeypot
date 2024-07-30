@@ -44,3 +44,8 @@ Cowrie downloads folder displaying all the downloaded files from threat actors:
 
 ![image](https://github.com/user-attachments/assets/0defc7fe-1e3a-45bc-aaf3-beb69358a070)
 
+View payload downloaded to server by threat actor:
+
+<img width="657" alt="cowrie_download_review" src="https://github.com/user-attachments/assets/d340f74a-5074-49a8-946e-a663428755b3">
+
+
